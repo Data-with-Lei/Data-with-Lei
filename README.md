@@ -1,3 +1,5 @@
+<img src="https://github.com/Data-with-Lei/Data-with-Lei/blob/main/women%20in%20tech.gif" width="1584" height="277" />
+
 
 # Hi 💫
 My name is Soleil and I am no stranger to BIG DATA <br>I am currently fostering my knowledge of ML and deep learning algorithms<br>I would love to step out of my comfort zone and take on a developer project that could shorten web scrapping time<br><br>
