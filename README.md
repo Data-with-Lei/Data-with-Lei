@@ -1,7 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:820:312/1*UaaxEWOPYkeh7D_4LOoEJA.gif)](https://github.com/Data-with-Lei/Data-with-Lei/new/main?readme=1)
 
-
- 
 # Hi 💫
 My name is Soleil and I am no stranger to BIG DATA <br>I am currently fostering my knowledge of ML and deep learning algorithms<br>I would love to step out of my comfort zone and take on a developer project that could shorten web scrapping time<br><br>
 <img align="center" alt="Coding" width="400" src="https://wp.technologyreview.com/wp-content/uploads/2019/08/datalabor3slow-10.gif"><br><br>
